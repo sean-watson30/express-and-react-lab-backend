@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sphinx Mythical Trivia Test",
+    "live": "https://chimerical-gaufre-e1405c.netlify.app/",
+    "git": "https://github.com/sean-watson30/Unit-1-Project.git",
+    "image": "https://camo.githubusercontent.com/4ddcc95ce1285922d41ab37b2f6c2c55c159a987f959f9cf335fce72d0d29cd1/68747470733a2f2f692e696d6775722e636f6d2f68456c77646b386c2e706e67"
+  },
+  {
+    "name": "Dungeons & Dragons (2e) Spellbook",
+    "live": "https://spellbook.herokuapp.com/",
+    "git": "https://github.com/sean-watson30/spellbook.git",
+    "image": "https://github.com/sean-watson30/spellbook/raw/master/public/images/Spellbook%20Show%20Screenshot.png"
+  }
+]
