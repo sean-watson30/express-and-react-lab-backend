@@ -34,7 +34,7 @@ app.get('/about', (req, res) => {
 })
 
 // declare a variable for server listener
-const PORT = process.env.port || 4000;
+const PORT = process.env.PORT || 4000;
 
 // server listener
 app.listen(PORT, () => console.log(`Listening on port: ${PORT}`));
